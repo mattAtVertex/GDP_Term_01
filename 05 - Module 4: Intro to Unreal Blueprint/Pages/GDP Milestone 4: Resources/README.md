@@ -1,0 +1,8 @@
+# GDP Milestone 4: Resources
+
+<p><span style="font-size: 12pt;">Here are resources that can help you achieve your milestone. There is helpful information and examples in the presentations. A sample project will give you a closer look at example Blueprints.</span></p>
+<p><span style="font-size: 14pt;"><strong>Presentations</strong></span></p>
+<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="102.01-Introduction to Blueprints.pdf" href="https://vertexschool.instructure.com/courses/297/files/17689?verifier=ROpYzeshkbIVd3WfdU7USs0h45SgdR6nOqc4HMCJ&amp;wrap=1" target="_blank" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/297/files/17689" data-api-returntype="File">Introduction to Blueprints</a></p>
+<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="102.02-Blueprint_Creating_User_Interfaces_With_Umg_&amp;_Blueprints_v5.0.pdf" href="https://vertexschool.instructure.com/courses/297/files/17683?verifier=bmmzkXhc2kwhRY0CJiwYCKJf3EHL29vwoZsfE6MX&amp;wrap=1" target="_blank" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/297/files/17683" data-api-returntype="File">Creating user interfaces with Blueprints</a></p>
+<p><span style="font-size: 14pt;"><strong>Sample Projects</strong></span></p>
+<p><a title="Blueprint Sample Projects" href="https://vertexschool.instructure.com/courses/297/pages/blueprint-sample-projects" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/297/pages/blueprint-sample-projects" data-api-returntype="Page">Blueprint Sample Projects</a></p>
